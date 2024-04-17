@@ -1,0 +1,39 @@
+h1{
+    color: whitesmoke;
+}
+
+.resume{
+    text-align: center;
+    font-size: large;
+    text-decoration-color: black;
+}
+
+.resumeSub{
+    font-size: 17px;
+    font-weight: normal;
+}
+
+.resTitle{
+    font-size: 15px;
+}
+
+.resDescription{
+    font-size: 13px;
+    font-weight: normal;
+    font-style: italic;
+}
+
+.resPoint{
+    font-size: 13px;
+    font-weight: normal;
+}
+
+.anchor{
+    text-align: center;
+    font-size: 10px;
+}
+
+.textFormat{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration-color: black;
+}
